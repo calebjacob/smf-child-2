@@ -9,9 +9,9 @@ const CrazyPage: NextPage = () => {
   return (
     <>
       <Section color="primary" noBorder>
-        <H1>Really Cool Page!!!</H1>
+        <H1>Cool Page</H1>
 
-        <P>This is code from a git submodule.</P>
+        <P>This is code from a git submodule. Testing: 1</P>
       </Section>
 
       <Section>
